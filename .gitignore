@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow only these files
+!.gitignore
+!Laporan_Praktikum_SysAdmin.pdf
+!Presentasi_SysAdmin_McKinsey.pptx
+!project-based 1 (2).pdf
+!Referensi_Perintah_SysAdmin.pdf
